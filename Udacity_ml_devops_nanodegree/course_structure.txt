@@ -1,0 +1,23 @@
+lesson-1 coding best practices:
+
+    Writing clean and modular code
+    Refactoring code
+    Optimizing code for efficiency
+    Writing documentation
+    Following PEP8 guidelines and linting
+
+lesson-2 version control skills 
+
+    Review of the add, commit, and push
+    Branching
+    Common version control workflows
+    Code reviews
+
+lesson-3 prepare your code for production.
+
+    Testing
+    Logging
+    Model drift
+    Automated vs. non-automated retraining
+
+

@@ -1,0 +1,17 @@
+Example of best clean code: Scikit learn
+
+# History:
+1956 - Fortran from IBM
+2005 - Git (version control)
+2008 - Github (online version control)
+Today - anyone ca search open source projects
+
+Installs
+
+    Python + Data Science Libraries
+    Git
+    Github
+
+Tools & Environment Checklist
+login to the github account
+
